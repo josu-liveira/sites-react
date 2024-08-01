@@ -1,0 +1,9 @@
+:root {
+  --polyline-color: rgb(0, 38, 255); /* Cor padrão das polylines */
+
+}
+
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+}
